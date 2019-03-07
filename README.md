@@ -1,28 +1,24 @@
-﻿
-# SD
+﻿# [LiteFS](https://github.com/qitas/LiteFS) 
 
-### 简介
+#### qitas@qitas.cn
 
-用于驱动SD卡读写，实现嵌入式设备的数据存储
+## [描述](https://github.com/qitas/LiteFS/wiki) 
 
----
+用于在嵌入式条件下驱动SD卡，实现嵌入式设备的数据读写存储
 
-## 组成
-
-#### qitas
+#### [文档资料](docs/) 
 
 - SD卡原理图
 - SanDisk数据手册
 
-#### STM32
+#### [MCU工程](MCU/) 
 
 - SDIO工程文件
 - SPI工程文件
 
+
 ---
 
-## 说明
-
-2018-10-19: 创建工程，添加工程代码和相关文档
+### 锻造最美之器
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
