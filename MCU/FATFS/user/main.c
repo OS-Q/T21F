@@ -1,16 +1,3 @@
-/********************************************************************************************************
-*
-* File                : main.c
-* Hardware Environment: 
-* Build Environment   : RealView MDK-ARM  Version: 4.14
-* Version             : V1.0
-* By                  : xiao xian hui
-*
-*                                  (c) Copyright 2005-2011, WaveShare
-*                                       http://www.waveShare.net
-*                                          All Rights Reserved
-*
-*********************************************************************************************************/
 
 /* Includes ------------------------------------------------------------------*/
 #include "ff.h"
